@@ -1,5 +1,5 @@
 # Perplexity Deepseek R1 API Integration
-A powerful integration for leveraging Perplexity's AI capabilities to generate thoughtful, reasoned responses to queries.
+The Perplexity Deepseek R1 Integration is a specialized AI connector that transforms complex queries into clear, accurate responses using Perplexity's Sonar-Reasoning model. Built specifically for delivering both detailed reasoning and concise answers, this integration combines domain-filtered knowledge with a unique dual-response format. With configurable token limits and robust error handling, it provides developers a powerful tool for building sophisticated AI-powered applications that require both the 'why' and 'what' of every response.
 
 ![sonar.jpg](images/sonar.jpg)
 
